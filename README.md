@@ -1,4 +1,4 @@
-# examples_of_projects
+# Описание проектов
 Here you can get acquainted with some of my projects.
 | Markdown | Поддерживает | Таблицы |
 | :-------------------- | ---------------------: |:---------------------------:|
@@ -9,6 +9,7 @@ print("Это фрагмент кода на python")
 [Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")
 [Подробнее о Markdown по ссылке](https://daringfireball.net/projects/markdown/)
 
-| Проект | Название | Стек |
+| Название проекта | Описание | Используемые библиотеки |
 | :--------------------: | :---------------------: |:---------------------------:|
-| [с выравниванием слева](https://translate.yandex.com/?utm_source=yandex&utm_medium=com&utm_campaign=morda) | с выравниванием справа | и с выравниванием по центру |
+| [Исследование рынка видеоигр](https://translate.yandex.com/?utm_source=yandex&utm_medium=com&utm_campaign=morda) | с выравниванием справа | и с выравниванием по центру |
+|
