@@ -31,9 +31,10 @@ visits_info_short.csv хранит лог сервера с информацие
 
     Python
     Pandas
+    Numpy
     Matplotlib
     Seaborn
-    Scipy
+    Datetime
     обработка данных
     статистический тест
     LTV, CAC, когортный анализ
