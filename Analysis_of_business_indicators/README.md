@@ -1,4 +1,4 @@
-## АНАЛИЗ УБЫТКОВ ПРИЛОЖЕНИЯ PROCRASTINATION PRO
+## АНАЛИЗ УБЫТКОВ ПРИЛОЖЕНИЯ PROCRASTINATE PRO
 
 ---
 
