@@ -26,3 +26,7 @@
     Sqlalchemy
     SQL
     PostgreSQL
+    
+    
+### Статус проекта:
+#### завершён
